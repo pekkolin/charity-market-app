@@ -1,0 +1,15 @@
+{
+    "name": "愛心募款市集",
+    "short_name": "募款市集",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFF8F0",
+    "theme_color": "#E67E22",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/2904/2904868.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
